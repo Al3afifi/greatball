@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main-header{
+    width: 100vw;
+    height: 10vh;
+    background-color: #3b82c4;
+    font-weight: bolder;
+    font-size: larger;
+}
